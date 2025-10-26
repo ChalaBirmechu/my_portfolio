@@ -4,7 +4,7 @@ window.addEventListener('load', () => {
   loading.style.opacity = '0';
   setTimeout(() => {
     loading.style.display = 'none';
-  }, 150000);
+  }, 90000);
 });
 
 // Mobile Navigation
